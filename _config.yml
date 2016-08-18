@@ -1,0 +1,14 @@
+layout_spectrum: 0.13909940817393363
+typography_spectrum: 0.060952220344915986
+color:
+  brandStrength: 0.851453673094511
+  lightness: 0.4877082845196128
+  saturation: 0.4907761183567345
+  rhythmicContrast: 0.6890146888326854
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: QuickEasyApps
